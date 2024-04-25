@@ -1,3 +1,4 @@
+//OPERADORES ARITNETICOS
 package operadoresaritmeticos;
 public class OperadoresAritmeticos {
     public static void main(String[] args) {
@@ -13,7 +14,7 @@ public class OperadoresAritmeticos {
        //variableDos = variableDos - 1;
        variableDos -- ;
        System.out.println("Decremento: "+variableDos);
-       
+       //Ada Elizabeth Quenta Huanca
        //SUMA
        int suma =variableUno + variableDos;
        System.out.println(" resultado Suma: " + suma);
